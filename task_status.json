@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "task": "Nmap Scan",
+            "status": "Completed"
+        },
+        {
+            "task": "Gobuster",
+            "status": "Failed"
+        },
+        {
+            "task": "FFUF Scan",
+            "status": "Pending"
+        }
+    ],
+    "Nmap Scan": "Completed",
+    "Gobuster Scan": "Completed",
+    "SQLMap Scan": "Failed"
+}

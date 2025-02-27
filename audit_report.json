@@ -1,0 +1,8 @@
+{
+    "summary": "Cybersecurity scan completed.",
+    "tasks": {
+        "Nmap Scan": "Completed",
+        "Gobuster Scan": "Completed",
+        "SQLMap Scan": "Failed"
+    }
+}
